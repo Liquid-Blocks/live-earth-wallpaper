@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Log files
+log.txt
+
+# Image files
+goes_original.jpg
+goes_wallpaper.jpg
